@@ -6,5 +6,5 @@ create a package.json file and then install jest.
 
 make jest your default test runner.
 
-
+![Test Image](/runtest.jpg)
 
